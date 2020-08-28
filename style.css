@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-size: 100px;
+}
+
+.app-container {
+    height: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
